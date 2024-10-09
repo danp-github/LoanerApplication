@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_incident_state" label="Incident State" language="en" table="x_519806_loaner_re_inbound_integration_d">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_incident_state</element>
+            <help/>
+            <hint/>
+            <label>Incident State</label>
+            <language>en</language>
+            <name>x_519806_loaner_re_inbound_integration_d</name>
+            <plural>Incident States</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-09 14:35:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident State</sys_name>
+            <sys_package display_value="Loaner Request" source="x_519806_loaner_re">b70d7caac305121093c7becdd401314f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">b70d7caac305121093c7becdd401314f</sys_scope>
+            <sys_update_name>sys_documentation_x_519806_loaner_re_inbound_integration_d_u_incident_state_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-09 14:35:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

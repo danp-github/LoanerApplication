@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="Loaner Request - Workspace Search">498d5ef2f10512104da2fe39f79da7e8</search_context_config>
+        <source display_value="Loaner Request - x_519806_loaner_re_loaner_task">f68d1236c305121093c7becdd4013159</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 18:13:14</sys_created_on>
+        <sys_id>3a8d1236c305121093c7becdd401315b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_519806_loaner_re">b70d7caac305121093c7becdd401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b70d7caac305121093c7becdd401314f</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_3a8d1236c305121093c7becdd401315b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 18:13:14</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

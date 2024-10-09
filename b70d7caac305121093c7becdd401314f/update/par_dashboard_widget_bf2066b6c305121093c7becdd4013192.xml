@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">c58d5ef2a8051210d3c6496a90c7f7ea</canvas>
+        <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
+        <component_props>{"src":"/now-image-placeholder.jpg","sources":"[]","fit":"fill","position":"center center","alt":""}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 18:24:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf2066b6c305121093c7becdd4013192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_519806_loaner_re">b70d7caac305121093c7becdd401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b70d7caac305121093c7becdd401314f</sys_scope>
+        <sys_update_name>par_dashboard_widget_bf2066b6c305121093c7becdd4013192</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 18:24:46</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>12</x>
+        <y>30</y>
+    </par_dashboard_widget>
+</record_update>

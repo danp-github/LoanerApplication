@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2465b2cbc301121093c7becdd40131ec" extends="sys_import_set_row" label="Inbound Integration Demo" max_length="40" name="x_519806_loaner_re_inbound_integration_d" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_category" label="Category" max_length="40" name="u_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_incident_state" label="Incident State" max_length="40" name="u_incident_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_requested_for" label="Requested For" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_short_description" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>

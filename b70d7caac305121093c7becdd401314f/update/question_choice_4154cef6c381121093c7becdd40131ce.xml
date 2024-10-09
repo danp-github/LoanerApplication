@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Model">3c244af6c381121093c7becdd401311e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-08 16:23:35</sys_created_on>
+        <sys_id>4154cef6c381121093c7becdd40131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Macbook</sys_name>
+        <sys_package display_value="Loaner Request" source="x_519806_loaner_re">b70d7caac305121093c7becdd401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b70d7caac305121093c7becdd401314f</sys_scope>
+        <sys_update_name>question_choice_4154cef6c381121093c7becdd40131ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-08 16:23:35</sys_updated_on>
+        <text>Macbook</text>
+        <value>macbook</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=4154cef6c381121093c7becdd40131ce"/>
+</record_update>
